@@ -18,6 +18,8 @@
 
 ###
 
+<hr>
+
 <h3 align="center">🧠 My Skills 💡</h3>
 
 ###
@@ -47,6 +49,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo"  />
 </div>
+
+<hr>
 
 ###
 
