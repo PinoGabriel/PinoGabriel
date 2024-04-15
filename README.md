@@ -22,6 +22,8 @@
 
 <h3 align="center">🧠 My Skills 💡</h3>
 
+<br>
+
 ###
 
 <div align="center">
