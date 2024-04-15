@@ -12,20 +12,23 @@
 
 ## 🧠 My Skills 💡
 
-| Skill | Logo |
-|-------|------|
-| HTML5 | ![HTML5 Logo](https://skillicons.dev/icons?i=html) |
-| CSS3 | ![CSS3 Logo](https://skillicons.dev/icons?i=css) |
-| Sass | ![Sass Logo](https://skillicons.dev/icons?i=sass) |
-| JavaScript | ![JavaScript Logo](https://skillicons.dev/icons?i=js) |
-| Vue.js | ![Vue.js Logo](https://skillicons.dev/icons?i=vue) |
-| PHP | ![PHP Logo](https://skillicons.dev/icons?i=php) |
-| Laravel | ![Laravel Logo](https://skillicons.dev/icons?i=laravel) |
-| Vite | ![Vite Logo](https://skillicons.dev/icons?i=vite) |
-| MySQL | ![MySQL Logo](https://skillicons.dev/icons?i=mysql) |
-| GitHub | ![GitHub Logo](https://skillicons.dev/icons?i=github) |
-| VSCode | ![VSCode Logo](https://skillicons.dev/icons?i=vscode) |
-| Postman | ![Postman Logo](https://skillicons.dev/icons?i=postman) |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="65" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="65" alt="php logo"  />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" height="65" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="65" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo"  />
+</div>
 
 ---
 
