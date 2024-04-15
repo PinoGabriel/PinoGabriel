@@ -10,8 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PinoGabriel.PinoGabriel&"  />
 </div>
 
-###
-
 ---
 
 <br clear="both">
