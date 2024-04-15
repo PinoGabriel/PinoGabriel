@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="65" alt="css3 logo"  />
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo"  />
-</div>
+</p>
 
 <hr>
 
