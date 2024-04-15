@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQGHGb7Z1G4WLA/profile-displayphoto-shrink_800_800/0/1710855116770?e=1718841600&v=beta&t=Axc4zb_nAHI3aruExoBetHLHJ-wPZhYWQO_WMYCudjk"  />
+<img align="right" height="250" src="https://media.licdn.com/dms/image/D4D03AQGHGb7Z1G4WLA/profile-displayphoto-shrink_800_800/0/1710855116770?e=1718841600&v=beta&t=Axc4zb_nAHI3aruExoBetHLHJ-wPZhYWQO_WMYCudjk"  />
 
 ###
 
