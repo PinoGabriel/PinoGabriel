@@ -1,16 +1,26 @@
-# Hi 👋! My name is Gabriel
+<h2 align="center">Hi 👋! My name is Gabriel</h2>
 
-### I'm a Full Stack Web Developer 💛
+###
+
+<h5 align="center">I'm a Full Stack Web Developer 💛</h5>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PinoGabriel.PinoGabriel&"  />
 </div>
 
----
+###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQGHGb7Z1G4WLA/profile-displayphoto-shrink_800_800/0/1710855116770?e=1718841600&v=beta&t=Axc4zb_nAHI3aruExoBetHLHJ-wPZhYWQO_WMYCudjk"  />
 
-## 🧠 My Skills 💡
+###
+
+<h3 align="center">🧠 My Skills 💡</h3>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
